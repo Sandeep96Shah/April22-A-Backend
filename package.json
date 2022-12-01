@@ -1,0 +1,16 @@
+{
+  "name": "aprill2-a",
+  "version": "1.0.0",
+  "description": "learning backend basics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "april22-a",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
